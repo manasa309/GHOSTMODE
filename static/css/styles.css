@@ -1,0 +1,55 @@
+.ghost-session-section {
+    background: #1e1e2f;
+    padding: 20px;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .ghost-btn {
+    background: linear-gradient(135deg, #6e44ff, #a5d7e8);
+    color: white;
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+  }
+  .ghost-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(173, 216, 230, 0.6);
+  }
+  
+  .ghost-btn.end {
+    background: linear-gradient(135deg, #ff4e50, #f9d423);
+  }
+  
+  .session-status {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .floating-toast {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 10px;
+    z-index: 9999;
+    font-weight: bold;
+    animation: fadeInOut 3s ease-in-out forwards;
+  }
+  @keyframes fadeInOut {
+    0% { opacity: 0; transform: translateY(-20px); }
+    10% { opacity: 1; transform: translateY(0); }
+    90% { opacity: 1; }
+    100% { opacity: 0; transform: translateY(-20px); }
+  }
+  
