@@ -1,0 +1,427 @@
+helooooo there
+GHOSTMODE
+GHOSTMODE is a digital detox web application designed to help users regain control over their digital lives by encouraging mindful technology usage. Built using Python (Flask) for the backend and a modern HTML/CSS/JavaScript frontend, GHOSTMODE empowers users to schedule detox sessions, track usage patterns, and receive motivational insights to promote healthier online habits.
+
+🚀 Features
+Digital Detox Sessions
+Start a focused session where you intentionally go offline for a selected time duration. GHOSTMODE discourages distractions by locking you into a digital cleanse mode.
+
+Session Timer with Progress Indicator
+A countdown timer helps visualize your detox session. No distractions—just focus.
+
+Streak & History Tracker
+Track how many successful detox sessions you’ve completed and monitor your digital habits over time.
+
+Motivational Quotes
+Stay inspired with curated quotes that encourage digital wellness and mental clarity.
+
+Mobile-Responsive UI
+GHOSTMODE is fully responsive and works seamlessly across desktops, tablets, and mobile phones.
+
+🛠️ Built With
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: Python, Flask
+
+Database: SQLite (lightweight and fast)
+
+Styling: Tailwind CSS / Bootstrap (choose your preferred styling library)
+
+Session Management: Flask-Sessions
+
+Time & Date Management: Python datetime module
+
+🔧 Installation & Setup
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/GHOSTMODE.git
+cd GHOSTMODE
+Create and activate a virtual environment
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application
+
+bash
+Copy
+Edit
+python app.py
+Access in your browser
+
+arduino
+Copy
+Edit
+http://localhost:5000
+📁 Project Structure
+swift
+Copy
+Edit
+GHOSTMODE/
+├── static/
+│   └── css/, js/, images/
+├── templates/
+│   └── index.html, timer.html, history.html
+├── app.py
+├── requirements.txt
+└── README.md
+🧠 Use Cases
+Students who want to stay focused while studying
+
+Professionals seeking work-life balance
+
+Anyone who feels overwhelmed by screen time
+
+People practicing digital minimalism
+
+🛡️ Privacy Focus
+GHOSTMODE does not require sign-ups or collect personal data. All session data is stored locally unless configured otherwise. It’s built with a "privacy-first" mindset.
+
+📌 Future Enhancements
+GHOSTMODE
+GHOSTMODE is a digital detox web application designed to help users regain control over their digital lives by encouraging mindful technology usage. Built using Python (Flask) for the backend and a modern HTML/CSS/JavaScript frontend, GHOSTMODE empowers users to schedule detox sessions, track usage patterns, and receive motivational insights to promote healthier online habits.
+
+🚀 Features
+Digital Detox Sessions
+Start a focused session where you intentionally go offline for a selected time duration. GHOSTMODE discourages distractions by locking you into a digital cleanse mode.
+
+Session Timer with Progress Indicator
+A countdown timer helps visualize your detox session. No distractions—just focus.
+
+Streak & History Tracker
+Track how many successful detox sessions you’ve completed and monitor your digital habits over time.
+
+Motivational Quotes
+Stay inspired with curated quotes that encourage digital wellness and mental clarity.
+
+Mobile-Responsive UI
+GHOSTMODE is fully responsive and works seamlessly across desktops, tablets, and mobile phones.
+
+🛠️ Built With
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: Python, Flask
+
+Database: SQLite (lightweight and fast)
+
+Styling: Tailwind CSS / Bootstrap (choose your preferred styling library)
+
+Session Management: Flask-Sessions
+
+Time & Date Management: Python datetime module
+
+🔧 Installation & Setup
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/GHOSTMODE.git
+cd GHOSTMODE
+Create and activate a virtual environment
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application
+
+bash
+Copy
+Edit
+python app.py
+Access in your browser
+
+arduino
+Copy
+Edit
+http://localhost:5000
+📁 Project Structure
+swift
+Copy
+Edit
+GHOSTMODE/
+├── static/
+│   └── css/, js/, images/
+├── templates/
+│   └── index.html, timer.html, history.html
+├── app.py
+├── requirements.txt
+└── README.md
+🧠 Use Cases
+Students who want to stay focused while studying
+
+Professionals seeking work-life balance
+
+Anyone who feels overwhelmed by screen time
+
+People practicing digital minimalism
+
+🛡️ Privacy Focus
+GHOSTMODE does not require sign-ups or collect personal data. All session data is stored locally unless configured otherwise. It’s built with a "privacy-first" mindset.
+
+📌 Future Enhancements
+User account support with personalized tracking
+
+Mobile app version
+
+Browser extension integration
+
+Pomodoro-style work/break cycles
+
+Customizable session goals and themes
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests. For major changes, please open an issue first to discuss what you’d like to improve.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙏 Acknowledgements
+Thanks to the open-source community and digital wellness advocates who inspire people to live more intentionally with technology.
+GHOSTMODE
+GHOSTMODE is a digital detox web application designed to help users regain control over their digital lives by encouraging mindful technology usage. Built using Python (Flask) for the backend and a modern HTML/CSS/JavaScript frontend, GHOSTMODE empowers users to schedule detox sessions, track usage patterns, and receive motivational insights to promote healthier online habits.
+
+🚀 Features
+Digital Detox Sessions
+Start a focused session where you intentionally go offline for a selected time duration. GHOSTMODE discourages distractions by locking you into a digital cleanse mode.
+
+Session Timer with Progress Indicator
+A countdown timer helps visualize your detox session. No distractions—just focus.
+
+Streak & History Tracker
+Track how many successful detox sessions you’ve completed and monitor your digital habits over time.
+
+Motivational Quotes
+Stay inspired with curated quotes that encourage digital wellness and mental clarity.
+
+Mobile-Responsive UI
+GHOSTMODE is fully responsive and works seamlessly across desktops, tablets, and mobile phones.
+
+🛠️ Built With
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: Python, Flask
+
+Database: SQLite (lightweight and fast)
+
+Styling: Tailwind CSS / Bootstrap (choose your preferred styling library)
+
+Session Management: Flask-Sessions
+
+Time & Date Management: Python datetime module
+
+🔧 Installation & Setup
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/GHOSTMODE.git
+cd GHOSTMODE
+Create and activate a virtual environment
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application
+
+bash
+Copy
+Edit
+python app.py
+Access in your browser
+
+arduino
+Copy
+Edit
+http://localhost:5000
+📁 Project Structure
+swift
+Copy
+Edit
+GHOSTMODE/
+├── static/
+│   └── css/, js/, images/
+├── templates/
+│   └── index.html, timer.html, history.html
+├── app.py
+├── requirements.txt
+└── README.md
+🧠 Use Cases
+Students who want to stay focused while studying
+
+Professionals seeking work-life balance
+
+Anyone who feels overwhelmed by screen time
+
+People practicing digital minimalism
+
+🛡️ Privacy Focus
+GHOSTMODE does not require sign-ups or collect personal data. All session data is stored locally unless configured otherwise. It’s built with a "privacy-first" mindset.
+
+📌 Future Enhancements
+User account support with personalized tracking
+
+Mobile app version
+
+Browser extension integration
+
+Pomodoro-style work/break cycles
+
+Customizable session goals and themes
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests. For major changes, please open an issue first to discuss what you’d like to improve.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙏 Acknowledgements
+Thanks to the open-source community and digital wellness advocates who inspire people to live more intentionally with technology.GHOSTMODE
+GHOSTMODE is a digital detox web application designed to help users regain control over their digital lives by encouraging mindful technology usage. Built using Python (Flask) for the backend and a modern HTML/CSS/JavaScript frontend, GHOSTMODE empowers users to schedule detox sessions, track usage patterns, and receive motivational insights to promote healthier online habits.
+
+🚀 Features
+Digital Detox Sessions
+Start a focused session where you intentionally go offline for a selected time duration. GHOSTMODE discourages distractions by locking you into a digital cleanse mode.
+
+Session Timer with Progress Indicator
+A countdown timer helps visualize your detox session. No distractions—just focus.
+
+Streak & History Tracker
+Track how many successful detox sessions you’ve completed and monitor your digital habits over time.
+
+Motivational Quotes
+Stay inspired with curated quotes that encourage digital wellness and mental clarity.
+
+Mobile-Responsive UI
+GHOSTMODE is fully responsive and works seamlessly across desktops, tablets, and mobile phones.
+
+🛠️ Built With
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: Python, Flask
+
+Database: SQLite (lightweight and fast)
+
+Styling: Tailwind CSS / Bootstrap (choose your preferred styling library)
+
+Session Management: Flask-Sessions
+
+Time & Date Management: Python datetime module
+
+🔧 Installation & Setup
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/GHOSTMODE.git
+cd GHOSTMODE
+Create and activate a virtual environment
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application
+
+bash
+Copy
+Edit
+python app.py
+Access in your browser
+
+arduino
+Copy
+Edit
+http://localhost:5000
+📁 Project Structure
+swift
+Copy
+Edit
+GHOSTMODE/
+├── static/
+│   └── css/, js/, images/
+├── templates/
+│   └── index.html, timer.html, history.html
+├── app.py
+├── requirements.txt
+└── README.md
+🧠 Use Cases
+Students who want to stay focused while studying
+
+Professionals seeking work-life balance
+
+Anyone who feels overwhelmed by screen time
+
+People practicing digital minimalism
+
+🛡️ Privacy Focus
+GHOSTMODE does not require sign-ups or collect personal data. All session data is stored locally unless configured otherwise. It’s built with a "privacy-first" mindset.
+
+📌 Future Enhancements
+User account support with personalized tracking
+
+Mobile app version
+
+Browser extension integration
+
+Pomodoro-style work/break cycles
+
+Customizable session goals and themes
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests. For major changes, please open an issue first to discuss what you’d like to improve.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙏 Acknowledgements
+Thanks to the open-source community and digital wellness advocates who inspire people to live more intentionally with technology.
+
+GHOSTMODE
+GHOSTMODE is a digital detox web application designed to help users regain control over their digital lives by encouraging mindful technology usage. Built using Python (Flask) for the backend and a modern HTML/CSS/JavaScript frontend, GHOSTMODE empowers users to schedule detox sessions, track usage patterns, and receive motivational insights to promote healthier online habits.
+
+🚀 Features
+Digital Detox Sessions
+Start a focused session where you intentionally go offline for a selected time duration. GHOSTMODE discourages distractions by locking you into a digital cleanse mode.
+
+Session Timer with Progress Indicator
+A countdown timer helps visualize your detox session. No distractions—just focus.
+
+Streak & History Tracker
+Track how many successfully
